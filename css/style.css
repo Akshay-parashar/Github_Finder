@@ -1,0 +1,16 @@
+.navbar {
+  border-radius: 0;
+}
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.profile_con {
+  margin-top: 20px;
+}
+
+/*<span class="label label-success">Public Gists: ${user.public_gists}</span>
+<span class="label label-info">Followers: ${user.followers} </span>
+<span class="label label-warning">Following: ${user.following} </span>*/
